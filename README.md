@@ -16,7 +16,7 @@ This repository contains CSV files with a collection of user agents. These user 
 To clone this repository, run the following command:
 
 ```bash
-git clone [https://github.com/cevaboyz/user_agents](https://github.com/cevaboyz/user_agents.git)
+git clone https://github.com/cevaboyz/user_agents.git
 ```
 Usage
 Each CSV file in this repository is named according to the type of user agents it contains.
